@@ -13,7 +13,9 @@
 #FUCK！拲谗档、兲朝、共富网、方滨兴、金盾网络系统、维尼熊帝、胡搞&影帝、江蛤蟆、邓Tank、毛腊肉、李大钊。。。 
 #民国之耻，人类之殇；
 
-#Ver.:20141217
+#Ver.:20141225
+#12.25修复accounts.google.com的IP地址；
+
 
 127.0.0.1    localhost
 
@@ -332,7 +334,7 @@
 203.79.253.59    clients5.google.com
 203.79.253.59    clients7.google.com
 74.125.131.115    checkout.google.com
-74.125.134.84    accounts.google.com
+74.125.133.84    accounts.google.com
 203.79.253.59    m.google.com
 74.125.193.112    adwords.google.com
 203.79.253.59    talk.google.com
@@ -2474,3 +2476,4 @@
 #usnews.com
 203.149.2.130 health.usnews.com
 42.99.128.146 static.usnews.com
+

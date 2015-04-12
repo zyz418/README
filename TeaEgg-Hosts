@@ -1,6 +1,6 @@
 #               TeaEgg-Hosts List           #
 #   https://raw.githubusercontent.com/zyz418/README/master/TeaEgg-Hosts   #
-#         Last updated: 7 Apr 2015         #
+#         Last updated: 10 Apr 2015         #
 
 
 #感谢google-Hosts、SimpleU-Hosts、imouto-hosts的作者。
@@ -13,7 +13,7 @@
 #FUCK！拲谗档、兲朝、共富网、方滨兴、金盾网络系统、维尼熊帝、胡搞&影帝、江蛤蟆、邓Tank、毛腊肉、李大钊。。。 
 #民国之耻，人类之殇；
 
-#Ver.:20150407
+#Ver.:201504010
 
 
 
@@ -28,7 +28,7 @@
 162.212.59.2 members.astrill.com
 
 
-#Current Version 36
+#Current Version 37
 #Newest Version http://go.netsh.org/link/gethosts
 # Microsoft OneDrive
 134.170.108.154    onedrive.live.com
@@ -4757,25 +4757,26 @@
 # g-Mail-Clients may not work for following hosts
 # If so, delete these lines
 # Wi-in-f108.1e100.net
+74.125.20.16    googlemail-pop.l.google.com
+74.125.20.16    googlemail-smtp.l.google.com
+74.125.20.16    gmail-imap.l.google.com
+74.125.20.16    googlemail-imap.l.google.com
+74.125.20.108    gmail-smtp-msa.l.google.com
 173.194.67.108    gmail-pop.l.google.com
-173.194.67.108    pop.googlemail.com
-173.194.67.108    googlemail-pop.l.google.com
-173.194.67.108    smtp.gmail.com
-173.194.67.108    gmail-smtp-msa.l.google.com
-173.194.67.108    smtp1.google.com
-173.194.67.108    smtp2.google.com
-173.194.67.108    smtp3.google.com
-173.194.67.108    smtp-out.google.com
-173.194.67.108    smtp-out3.google.com
-173.194.67.108    gmail-smtp.l.google.com
-173.194.67.108    gmail-smtp-in.l.google.com
-173.194.67.108    gmr-smtp-in.l.google.com
-173.194.67.108    smtp.googlemail.com
-173.194.67.108    googlemail-smtp.l.google.com
-173.194.67.108    imap.gmail.com
-173.194.67.108    gmail-imap.l.google.com
-173.194.67.108    imap.googlemail.com
-173.194.67.108    googlemail-imap.l.google.com
+74.125.196.109    pop.googlemail.com
+74.125.196.109    imap.gmail.com
+74.125.196.109    imap.googlemail.com
+74.125.196.109    pop.gmail.com
+173.194.193.108    smtp.gmail.com
+173.194.193.108    smtp1.google.com
+173.194.193.108    smtp2.google.com
+173.194.193.108    smtp3.google.com
+173.194.193.108    smtp-out.google.com
+173.194.193.108    smtp-out3.google.com
+173.194.193.108    gmail-smtp.l.google.com
+173.194.193.108    gmail-smtp-in.l.google.com
+173.194.193.108    gmr-smtp-in.l.google.com
+173.194.193.108    smtp.googlemail.com
 
 # g-co-Domains
 119.161.83.27    www.google.com.gr

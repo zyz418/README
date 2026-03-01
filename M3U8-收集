@@ -1,2 +1,91 @@
 #EXTINF:-1 tvg-name="Animax English Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax English Subs
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视4K.png" group-title="•地方「特产」",东方卫视 4K「回看」
+https://tv.iill.top/kdf/2030
+
+
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://epg.iill.top/logo/民視綜藝台.png" group-title="•台湾「限制」",民視綜藝「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv004
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://epg.iill.top/logo/三立綜合台.png" group-title="•台湾「限制」",三立綜合「4gTV」
+https://tv.iill.top/4gtv/4gtv-live207
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://epg.iill.top/logo/三立新聞iNEWS.png" group-title="•台湾「限制」",三立新聞iNEWS「4gTV」
+https://tv.iill.top/4gtv/4gtv-live089
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://epg.iill.top/logo/愛爾達娛樂台.png" group-title="•台湾「限制」",愛爾達娛樂「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv070
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://epg.iill.top/logo/鏡電視新聞台.png" group-title="•台湾「限制」",鏡電視新聞「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv075
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://epg.iill.top/logo/半島國際新聞台.png" group-title="•台湾「限制」",半島國際新聞「4gTV」
+https://tv.iill.top/4gtv/4gtv-live157
+#EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://epg.iill.top/logo/DW德國之聲.png" group-title="•台湾「限制」",DW德國之聲「4gTV」
+https://tv.iill.top/4gtv/4gtv-live071
+#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://epg.iill.top/logo/FRANCE24.png" group-title="•台湾「限制」",FRANCE24「4gTV」
+https://tv.iill.top/4gtv/4gtv-live146
+#EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://epg.iill.top/logo/NHK-WORLD-JAPAN.png" group-title="•台湾「限制」",NHK 新聞資訊「4gTV」
+https://tv.iill.top/4gtv/4gtv-live168
+#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://epg.iill.top/logo/CNBC-Asia-財經台.png" group-title="•台湾「限制」",CNBC Asia 財經「4gTV」
+https://tv.iill.top/4gtv/4gtv-live130
+#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://epg.iill.top/logo/SBN-全球財經台.png" group-title="•台湾「限制」",SBN 全球財經「4gTV」
+https://tv.iill.top/4gtv/4gtv-live060
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://epg.iill.top/logo/Bloomberg-TV.png" group-title="•台湾「限制」",Bloomberg TV「4gTV」
+https://tv.iill.top/4gtv/4gtv-live059
+
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://epg.iill.top/logo/amc電影台.png" group-title="•台湾「限制」",amc電影台「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv017
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://epg.iill.top/logo/My-Cinema-Europe.png" group-title="•台湾「限制」",MCE 我的歐洲電影「4gTV」
+https://tv.iill.top/4gtv/litv-ftv10
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://epg.iill.top/logo/影迷數位電影台.png" group-title="•台湾「限制」",影迷數位電影「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv011
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://epg.iill.top/logo/影迷數位紀實台.png" group-title="•台湾「限制」",影迷數位紀實「4gTV」
+https://tv.iill.top/4gtv/litv-ftv15
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://epg.iill.top/logo/CinemaWorld.png" group-title="•台湾「限制」",CinemaWorld「4gTV」
+https://tv.iill.top/4gtv/4gtv-live069
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://epg.iill.top/logo/經典電影台.png" group-title="•台湾「限制」",經典電影「4gTV」
+https://tv.iill.top/4gtv/4gtv-live021
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://epg.iill.top/logo/Love-Nature.png" group-title="•台湾「限制」",Love Nature「4gTV」
+https://tv.iill.top/4gtv/4gtv-live208
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://epg.iill.top/logo/視納華仁紀實頻道.png" group-title="•台湾「限制」",視納華仁紀實頻道「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv013
+#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://epg.iill.top/logo/CI-罪案偵查頻道.png" group-title="•台湾「限制」",CI 罪案偵查頻道「4gTV」
+https://tv.iill.top/4gtv/4gtv-live027
+
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://epg.iill.top/logo/達文西頻道.png" group-title="•台湾「限制」",達文西頻道「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv018
+#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://epg.iill.top/logo/History-歷史頻道.png" group-title="•台湾「限制」",History 歷史頻道「4gTV」
+https://tv.iill.top/4gtv/4gtv-live026
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://epg.iill.top/logo/MagellanTV.png" group-title="•台湾「限制」",MagellanTV (麥哲倫頻道)「4gTV」
+https://tv.iill.top/4gtv/4gtv-live123
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.iill.top/logo/ROCK-Action.png" group-title="•台湾「限制」",ROCK Action「4gTV」
+https://tv.iill.top/4gtv/4gtv-live138
+
+#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://epg.iill.top/logo/DreamWorks-夢工廠動畫.png" group-title="•台湾「限制」",DreamWorks 夢工廠動畫「4gTV」
+https://tv.iill.top/4gtv/4gtv-live017
+
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•綜合「測試」",BBC Earth
+https://hls.iill.top/api/BBC-Earth/index.m3u8
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•綜合「測試」",BBC Lifestyle
+https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="•綜合「測試」",Discovery
+https://hls.iill.top/api/Discovery/index.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://epg.iill.top/logo/HBO.png" group-title="•綜合「測試」",HBO
+https://hls.iill.top/api/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://epg.iill.top/logo/HBO-Hits.png" group-title="•綜合「測試」",HBO Hits
+https://hls.iill.top/api/HBO-Hits/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://epg.iill.top/logo/HBO-Family.png" group-title="•綜合「測試」",HBO Family
+https://hls.iill.top/api/HBO-Family/index.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://epg.iill.top/logo/HBO-Signature.png" group-title="•綜合「測試」",HBO Signature
+https://hls.iill.top/api/HBO-Signature/index.m3u8
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://epg.iill.top/logo/動物星球.png" group-title="•綜合「測試」",動物星球
+https://hls.iill.top/api/dwxq/index.m3u8
+#EXTINF:-1 tvg-id="緯來日本台" tvg-name=緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" group-title="•綜合「測試」",緯來日本
+https://hls.iill.top/api/wlrb/index.m3u8
+#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" group-title="•綜合「測試」",緯來體育
+https://hls.iill.top/api/wlty/index.m3u8
+#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://epg.iill.top/logo/緯來電影.png" group-title="•綜合「測試」",緯來電影
+https://hls.iill.top/api/wldy/index.m3u8
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://epg.iill.top/logo/東森電影台.png" group-title="•綜合「測試」",東森電影
+https://hls.iill.top/api/dsdy/index.m3u8
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://epg.iill.top/logo/東森洋片台.png" group-title="•綜合「測試」",東森洋片
+https://hls.iill.top/api/dsyp/index.m3u8
+#EXTINF:-1 tvg-id="LS Time電影台" tvg-name="LS Time電影台" tvg-logo="https://epg.iill.top/logo/龍祥時代.png" group-title="•綜合「測試」",龍祥時代
+https://hls.iill.top/api/lxsd/index.m3u8

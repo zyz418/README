@@ -1,3 +1,24 @@
+#EXTINF:-1 group-title="CCTV",江苏卫视4K超高清
+http://112.86.202.37:8112/JSBC_iptv/C10000454@JSBC
+#EXTINF:-1 group-title="CCTV",江苏卫视4K超高清
+http://112.86.202.37:8112/JSBC_iptv/C10000455@JSBC
+#EXTINF:-1 group-title="CCTV",北京卫视4K超高清
+http://112.86.202.37:8112/JSBC_iptv/C10000425@JSBC
+#EXTINF:-1 group-title="CCTV",东方卫视4K超高清
+http://112.86.202.37:8112/JSBC_iptv/C10000463@JSBC
+#EXTINF:-1 group-title="CCTV",浙江卫视4K超高清
+http://112.86.202.37:8112/JSBC_iptv/C10000457@JSBC
+#EXTINF:-1 group-title="CCTV",广东卫视4K超高清
+http://112.86.202.37:8112/JSBC_iptv/C10000436@JSBC
+#EXTINF:-1 group-title="CCTV",深圳卫视4K超高清
+http://112.86.202.37:8112/JSBC_iptv/C10000438@JSBC
+#EXTINF:-1 group-title="CCTV",山东卫视4K超高清
+http://112.86.202.37:8112/JSBC_iptv/C10000465@JSBC
+#EXTINF:-1 group-title="CCTV",湖南卫视4K超高清
+http://112.86.202.37:8112/JSBC_iptv/C10000461@JSBC
+#EXTINF:-1 group-title="CCTV",四川卫视4K超高清
+http://112.86.202.37:8112/JSBC_iptv/C10000459@JSBC
+
 #EXTINF:-1 tvg-name="Animax English Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax English Subs
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 

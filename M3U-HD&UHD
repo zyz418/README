@@ -1,10 +1,44 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV1",CCTV-1高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkAFVn1RP2d2uoo%2Foo97iAsu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV2",CCTV-2高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjLjmqq5VFTNlTRTIYZuPFEu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV3",CCTV-3高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgPYh7UYWZPIIdnB%2FiAqXWou0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV4",CCTV-4高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoaYUhARSOAZvaB4bPLfRG0u0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV5",CCTV-5高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEozMH5mDAJP6SltbUTv3nN8u0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV5+",CCTV5+高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEp4x3ZVhpAE%2BHYVoOre4TusAXe%2BeZvUgolzXkq%2By75Rg&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV6",CCTV-6高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEuwxwaoCGJY2cCtI9leQXrQu0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV7",CCTV-7高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-7-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo%2FnZmofd%2BrCFtc8Q50vu3Au0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV8",CCTV-8高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsFjysg6lHm9n5%2FvwbWNDQ0u0HPDaI8IXtpvkDaFJ1bH&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV9",CCTV-9
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-9-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElGagliwFIk%2BluGBbGdVUbc02fQ712gaPW1S8iZfrxPb&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV10",CCTV-10超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-10-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErwM4PQmmUbDAbEG18NJ7ON4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV11",CCTV-11高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-11-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEglwOR0THVROxuCQpsWEgp14LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV12",CCTV-12高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-12-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvskw9SxptiBzf0Vc8ipYKN4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV13",CCTV-13超清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-13-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEkjL6a8QWp3FPxxMdEg8%2F3R4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="少儿" tvg-name="CCTV14",CCTV-14高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-14-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEo3RDHuXMRWK8VyFam4v%2FtV4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV15",CCTV-15高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-15-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEr2cMh1na7Xi9YCb22Tii5B4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV16",CCTV-16高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEj7L5TMaaLEN8QSSnoeVsO94LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="CCTV" tvg-name="CCTV17",CCTV-17高清
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvZuARt3SsS1lp07gslq8B54LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://live.404003.xyz/LOGO/江苏卫视4K.png" group-title="超清频道",江苏卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" group-title="卫视;4K",江苏卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000455@JSBC
-
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视" group-title="卫视;4K",北京卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000425@JSBC
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" group-title="卫视;4K",广东卫视4K

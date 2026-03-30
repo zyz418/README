@@ -57,3 +57,15 @@ http://112.86.202.37:8112/JSBC_iptv/C10000463@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000465@JSBC
 #EXTINF:-1,tvg-id="苏州记录4k" tvg-name="苏州记录4k" tvg-logo="https://11.112114.xyz/logo/苏州记录4K.png" group-title="江苏频道",苏州记录4k
 http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="全部" tvg-name="四川卫视4K50P" tvg-id="00000001000000050000000000015983" tvg-logo="logo/20250926155755776.jpg",四川卫视4K50P
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+#EXTINF:-1 group-title="全部" tvg-name="湖南卫视4K50P" tvg-id="00000001000000050000000000015984" tvg-logo="logo/20250926155814126.jpg",湖南卫视4K50P
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+#EXTINF:-1 group-title="全部" tvg-name="江苏卫视4K50P" tvg-id="00000001000000050000000000015985" tvg-logo="logo/20250926155909422.jpg",江苏卫视4K50P
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+#EXTINF:-1 group-title="全部" tvg-name="浙江卫视4K50P" tvg-id="00000001000000050000000000015986" tvg-logo="logo/20250926155917923.jpg",浙江卫视4K50P
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+#EXTINF:-1 group-title="全部" tvg-name="东方卫视4K50P" tvg-id="00000001000000050000000000015987" tvg-logo="logo/20250926155925825.jpg",东方卫视4K50P
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
+#EXTINF:-1 group-title="全部" tvg-name="山东卫视4K50P" tvg-id="00000001000000050000000000015988" tvg-logo="logo/20250926160030612.jpg",山东卫视4K50P
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
